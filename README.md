@@ -13,47 +13,6 @@ I architect AI platforms that connect **LLMs, enterprise data, autonomous agents
 
 </div>
 
----
-
-## 👨‍💻 Executive Profile
-
-```text
-AI Solutions Architect
-├── Generative AI & LLM Applications
-├── Agentic AI & Multi-Agent Orchestration
-├── RAG & Enterprise Knowledge Systems
-├── Model Context Protocol (MCP)
-├── Cloud-Native AI Architecture
-└── AI Governance, Evaluation & Observability
-```
-
-- 🧠 **7+ years of technology experience** across AI engineering, cloud platforms, solution design, and enterprise delivery
-- 🏗️ Designing **production-grade Generative AI and Agentic AI platforms** from discovery and architecture to deployment and optimization
-- 🤖 Building autonomous workflows with **planning, reasoning, tool calling, memory, human approval, and feedback loops**
-- 🔌 Developing **MCP servers and clients** that securely connect AI agents with enterprise data, APIs, files, and cloud services
-- 📚 Creating scalable **RAG systems** with hybrid retrieval, reranking, query transformation, citations, and evaluation
-- ☁️ Architecting event-driven and containerized AI solutions using **AWS, FastAPI, Docker, Kubernetes, PostgreSQL, and Redis**
-- 🛡️ Engineering for **security, responsible AI, guardrails, observability, reliability, latency, and cost optimization**
-- 📈 Translating complex business requirements into **AI roadmaps, reference architectures, reusable platforms, and measurable outcomes**
-- 🤝 Working across engineering, product, business, compliance, and leadership teams to move AI from **prototype to production**
-- 🎓 MBA in **Artificial Intelligence** | Based in **Bengaluru, India**
-
----
-
-## 🎯 Core Areas of Expertise
-
-| Domain | Capabilities |
-|---|---|
-| **Generative AI** | LLM application architecture, prompt engineering, structured outputs, function calling, fine-tuning strategy, multimodal AI |
-| **Agentic AI** | ReAct, planning, routing, reflection, supervisor agents, multi-agent workflows, human-in-the-loop, durable execution |
-| **RAG & Knowledge AI** | Ingestion, chunking, embeddings, hybrid search, metadata filtering, reranking, GraphRAG concepts, grounded generation |
-| **MCP Engineering** | MCP servers, clients, tools, resources, prompts, transports, security, guardrails, enterprise integrations |
-| **LLMOps & Evaluation** | Tracing, prompt/version management, RAGAS, quality evaluation, hallucination checks, latency and token-cost monitoring |
-| **AI Safety & Governance** | Responsible AI, NeMo Guardrails, PII protection, prompt-injection defence, access control, auditability |
-| **Cloud AI Architecture** | Microservices, event-driven systems, API design, asynchronous processing, caching, scaling, resilience |
-| **AI Leadership** | Architecture strategy, stakeholder management, mentoring, technical enablement, delivery planning, solution storytelling |
-
----
 
 ## 🧰 Technology Arsenal
 
@@ -142,6 +101,48 @@ AI Solutions Architect
 ![Evaluation](https://img.shields.io/badge/LLM_Evaluation-673AB7?style=flat-square)
 
 ---
+
+
+## 👨‍💻 Executive Profile
+
+```text
+AI Solutions Architect
+├── Generative AI & LLM Applications
+├── Agentic AI & Multi-Agent Orchestration
+├── RAG & Enterprise Knowledge Systems
+├── Model Context Protocol (MCP)
+├── Cloud-Native AI Architecture
+└── AI Governance, Evaluation & Observability
+```
+
+- 🧠 **7+ years of technology experience** across AI engineering, cloud platforms, solution design, and enterprise delivery
+- 🏗️ Designing **production-grade Generative AI and Agentic AI platforms** from discovery and architecture to deployment and optimization
+- 🤖 Building autonomous workflows with **planning, reasoning, tool calling, memory, human approval, and feedback loops**
+- 🔌 Developing **MCP servers and clients** that securely connect AI agents with enterprise data, APIs, files, and cloud services
+- 📚 Creating scalable **RAG systems** with hybrid retrieval, reranking, query transformation, citations, and evaluation
+- ☁️ Architecting event-driven and containerized AI solutions using **AWS, FastAPI, Docker, Kubernetes, PostgreSQL, and Redis**
+- 🛡️ Engineering for **security, responsible AI, guardrails, observability, reliability, latency, and cost optimization**
+- 📈 Translating complex business requirements into **AI roadmaps, reference architectures, reusable platforms, and measurable outcomes**
+- 🤝 Working across engineering, product, business, compliance, and leadership teams to move AI from **prototype to production**
+- 🎓 MBA in **Artificial Intelligence** | Based in **Bengaluru, India**
+
+---
+
+## 🎯 Core Areas of Expertise
+
+| Domain | Capabilities |
+|---|---|
+| **Generative AI** | LLM application architecture, prompt engineering, structured outputs, function calling, fine-tuning strategy, multimodal AI |
+| **Agentic AI** | ReAct, planning, routing, reflection, supervisor agents, multi-agent workflows, human-in-the-loop, durable execution |
+| **RAG & Knowledge AI** | Ingestion, chunking, embeddings, hybrid search, metadata filtering, reranking, GraphRAG concepts, grounded generation |
+| **MCP Engineering** | MCP servers, clients, tools, resources, prompts, transports, security, guardrails, enterprise integrations |
+| **LLMOps & Evaluation** | Tracing, prompt/version management, RAGAS, quality evaluation, hallucination checks, latency and token-cost monitoring |
+| **AI Safety & Governance** | Responsible AI, NeMo Guardrails, PII protection, prompt-injection defence, access control, auditability |
+| **Cloud AI Architecture** | Microservices, event-driven systems, API design, asynchronous processing, caching, scaling, resilience |
+| **AI Leadership** | Architecture strategy, stakeholder management, mentoring, technical enablement, delivery planning, solution storytelling |
+
+---
+
 
 ## 🏗️ What I Build
 
